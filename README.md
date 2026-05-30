@@ -1,11 +1,35 @@
 # Electronic supplements
 
-This folder contains the executable Jupyter notebook and a static browser-readable rendering of the same material.
+This repository contains electronic supplementary material for computations related to the Laplace-Beltrami spectrum on the homogeneous space \(W^{1,1}\).
 
-Recommended browser view:
+It provides the source code for the explicit computation of the spectrum, the corresponding plots, and consistency checks with known results.
+
+## Recommended browser view
+
+GitHub sometimes fails to render the Jupyter notebook file (`Agricola, Henkel Calculation Spectrum.ipynb`) in the web preview and shows only `An error occurred`. The following HTML version is provided as a stable browser-readable rendering with code cells and recorded outputs in notebook order:
 
 - [Agricola_Henkel_Calculation_Spectrum.html](https://jmhenkel.github.io/Electronic-supplements/Agricola_Henkel_Calculation_Spectrum.html)
 
-GitHub sometimes fails to render Jupyter notebooks in the web preview and shows only `An error occurred`. The HTML version above is provided as a stable browser-readable rendering with code cells and recorded outputs in notebook order. The original executable notebook is also included:
+The original executable notebook is also included:
 
 - `Agricola, Henkel Calculation Spectrum.ipynb`
+
+## Content
+
+The Jupyter Notebook `Agricola, Henkel Calculation Spectrum.ipynb` covers the following topics:
+
+1. **Explicit computation:** Computation of \(\Sigma(W^{1,1}, g_{t_0,t_1})\).
+2. **Plots:** Visualizations of \(\Sigma(W^{1,1}, g_{t_0,t_1})\) for several parameter choices.
+3. **Compatibility check:** Verification that multiplicities agree with the results of Urakawa.
+4. **Basic eigenvalues:** Consistency check with the spectrum of \(\mathbb{CP}^2\).
+
+## Usage
+
+To run the code, you need a working Python installation with `numpy`, `sympy`, and `matplotlib`.
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/jmhenkel/Electronic-supplements.git
+   ```
+2. Open the notebook `Agricola, Henkel Calculation Spectrum.ipynb` in Jupyter or VS Code.
+3. Execute the cells.
