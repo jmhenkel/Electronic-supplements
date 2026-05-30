@@ -1,14 +1,17 @@
-# Electronic supplements
+# Laplace-Beltrami spectrum of the Aloff-Wallach space $W^{1,1}$
 
-This repository contains electronic supplementary material for computations related to the Laplace-Beltrami spectrum of the Aloff-Wallach space $W^{1,1}$.
+This repository contains the *Electronic Supplementary Material* for the paper:
 
-It provides the source code for the explicit computation of the spectrum, the corresponding plots, and consistency checks with known results.
+> **The Laplace-Beltrami spectrum on naturally reductive homogeneous spaces**  
+> *Ilka Agricola and Jonas Henkel*
+
+It provides the source code for the explicit computation of the Laplace-Beltrami spectrum of the Aloff-Wallach space $W^{1,1}$, the corresponding plots, and consistency checks with known results.
 
 ## Recommended browser view
 
 GitHub sometimes fails to render the Jupyter notebook file (`Agricola, Henkel Calculation Spectrum.ipynb`) in the web preview and shows only `An error occurred`. The following HTML version is provided as a stable browser-readable rendering with code cells and recorded outputs in notebook order:
 
-- [Agricola_Henkel_Calculation_Spectrum.html](https://jmhenkel.github.io/Electronic-supplements/Agricola_Henkel_Calculation_Spectrum.html)
+- <a href="https://jmhenkel.github.io/Electronic-supplements/Agricola_Henkel_Calculation_Spectrum.html" target="_blank" rel="noopener noreferrer">Agricola_Henkel_Calculation_Spectrum.html</a>
 
 The original executable notebook is also included:
 
