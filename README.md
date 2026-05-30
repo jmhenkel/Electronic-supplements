@@ -1,6 +1,6 @@
 # Electronic supplements
 
-This repository contains electronic supplementary material for computations related to the Laplace-Beltrami spectrum on the homogeneous space $W^{1,1}$.
+This repository contains electronic supplementary material for computations related to the Laplace-Beltrami spectrum of the Aloff-Wallach space $W^{1,1}$.
 
 It provides the source code for the explicit computation of the spectrum, the corresponding plots, and consistency checks with known results.
 
