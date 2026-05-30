@@ -1,6 +1,6 @@
 # Electronic supplements
 
-This repository contains electronic supplementary material for computations related to the Laplace-Beltrami spectrum on the homogeneous space \(W^{1,1}\).
+This repository contains electronic supplementary material for computations related to the Laplace-Beltrami spectrum on the homogeneous space $W^{1,1}$.
 
 It provides the source code for the explicit computation of the spectrum, the corresponding plots, and consistency checks with known results.
 
@@ -18,10 +18,10 @@ The original executable notebook is also included:
 
 The Jupyter Notebook `Agricola, Henkel Calculation Spectrum.ipynb` covers the following topics:
 
-1. **Explicit computation:** Computation of \(\Sigma(W^{1,1}, g_{t_0,t_1})\).
-2. **Plots:** Visualizations of \(\Sigma(W^{1,1}, g_{t_0,t_1})\) for several parameter choices.
+1. **Explicit computation:** Computation of $\Sigma(W^{1,1}, g_{t_0,t_1})$.
+2. **Plots:** Visualizations of $\Sigma(W^{1,1}, g_{t_0,t_1})$ for several parameter choices.
 3. **Compatibility check:** Verification that multiplicities agree with the results of Urakawa.
-4. **Basic eigenvalues:** Consistency check with the spectrum of \(\mathbb{CP}^2\).
+4. **Basic eigenvalues:** Consistency check with the spectrum of $\mathbb{CP}^2$.
 
 ## Usage
 
