@@ -1,4 +1,4 @@
-# Laplace-Beltrami spectrum of the Aloff-Wallach space $W^{1,1}$
+# Laplace-Beltrami spectrum of the Aloff-Wallach space
 
 This repository contains the *Electronic Supplementary Material* for the paper:
 
